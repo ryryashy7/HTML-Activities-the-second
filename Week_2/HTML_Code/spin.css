@@ -1,0 +1,17 @@
+.rotating-box {
+  width: 1000px;
+  height: 1000px;
+  background-color: steelblue;
+  transition: transform 1s ease; 
+}
+
+.rotating-box:hover {
+  transform: rotate(180deg); 
+}
+
+.box-text {
+  pointer-events: none;
+  text-align: center; 
+}
+
+
