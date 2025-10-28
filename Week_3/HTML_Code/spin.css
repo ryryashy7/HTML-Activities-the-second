@@ -2,7 +2,7 @@
   width: 1000px;
   height: 1000px;
   background-color: steelblue;
-  transition: transform 3s ease; 
+  transition: transform 3s ease;
 }
 
 .rotating-box:hover {
